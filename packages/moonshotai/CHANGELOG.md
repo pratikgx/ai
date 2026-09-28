@@ -1,5 +1,13 @@
 # @ai-sdk/moonshotai
 
+## 3.0.59
+
+### Patch Changes
+
+- e3605f6: Fix streamed tool calls with missing, blank, or repeated IDs.
+- Updated dependencies [e3605f6]
+  - @ai-sdk/provider-utils@5.0.50
+
 ## 3.0.58
 
 ### Patch Changes

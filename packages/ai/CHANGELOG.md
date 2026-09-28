@@ -1,5 +1,15 @@
 # ai
 
+## 7.0.119
+
+### Patch Changes
+
+- 34d869e: fix(ai): prevent unhandled stream completion rejections in non-Node runtimes
+- def4df8: fix(ai): store static tool input errors in the current input field
+- Updated dependencies [e3605f6]
+  - @ai-sdk/provider-utils@5.0.50
+  - @ai-sdk/gateway@4.0.97
+
 ## 7.0.118
 
 ### Patch Changes

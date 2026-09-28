@@ -1,5 +1,13 @@
 # @ai-sdk/google
 
+## 4.0.83
+
+### Patch Changes
+
+- 32cf2f6: fix(google): send the default Gemini Live `thinkingLevel` when `thinkingConfig` sets neither `thinkingLevel` nor `thinkingBudget`, and stop overwriting a raw `generationConfig.thinkingConfig`
+- Updated dependencies [e3605f6]
+  - @ai-sdk/provider-utils@5.0.50
+
 ## 4.0.82
 
 ### Patch Changes

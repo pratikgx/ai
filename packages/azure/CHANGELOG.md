@@ -1,5 +1,15 @@
 # @ai-sdk/azure
 
+## 4.0.83
+
+### Patch Changes
+
+- 354af1c: Add MAI-Transcribe-2 file transcription through `azure.transcription()` using the Azure Speech API, with diarization, word/segment timestamps, transcript styles, locale forcing, and phrase lists. Select the API with `providerOptions.azure.api` to override model-based routing, add a `speechBaseURL` setting for the Speech endpoint, and add `azure.transcriptionModel()` as an alias of `azure.transcription()`.
+- Updated dependencies [e3605f6]
+  - @ai-sdk/provider-utils@5.0.50
+  - @ai-sdk/openai@4.0.79
+  - @ai-sdk/deepseek@3.0.55
+
 ## 4.0.82
 
 ### Patch Changes

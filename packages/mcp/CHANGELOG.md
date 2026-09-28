@@ -1,5 +1,12 @@
 # @ai-sdk/mcp
 
+## 2.0.61
+
+### Patch Changes
+
+- Updated dependencies [e3605f6]
+  - @ai-sdk/provider-utils@5.0.50
+
 ## 2.0.60
 
 ### Patch Changes
